@@ -1,9 +1,3 @@
 # sandbox
 iworkshop teszt
-
-
-
-
-
-
 verafork
