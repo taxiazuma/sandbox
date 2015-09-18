@@ -1,8 +1,4 @@
-<<<<<<< .merge_file_a03436
-423423# sandbox
-=======
 # sandbox
->>>>>>> .merge_file_a07880
 iworkshop teszt
 
 kriszfork
